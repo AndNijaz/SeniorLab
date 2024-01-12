@@ -1,4 +1,5 @@
-Senior Lab Website Documentation
+<b>Senior Lab Website Documentation
+<br/>
 <br/>
 Overview
 <br/>
