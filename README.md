@@ -10,9 +10,11 @@ The Senior Lab website is designed to promote the Senior Lab project, which aims
 <li>
 <h4>Responsive Design<h4> 
 </li>
-<p>The Senior Lab website is designed to be accessible and user-friendly on various devices, including desktops, tablets, and mobile phones.</p>
+The Senior Lab website is designed to be accessible and user-friendly on various devices, including desktops, tablets, and mobile phones.
   
-<li></li>
+<li><h4>Information Sections<h4> </li>
+The website includes dedicated sections to provide information about the Senior Lab project, its goals, the technology training it offers to elderly individuals, as well as about the staff.
+
 <li></li>
 
 </ol>
