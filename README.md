@@ -1,5 +1,8 @@
-<h1>Senior Lab Website Documentation<h1/>
-<br/>
+<h1>Senior Lab Website Documentation</h1>
+
+
+  
+<hr/>
 <br/>
 Overview
 <br/>
