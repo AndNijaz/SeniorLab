@@ -3,12 +3,16 @@
 <h3>Overview</h3>
 The Senior Lab website is designed to promote the Senior Lab project, which aims to teach elderly individuals how to use technology in everyday life, for purposes such as social media, entertainment, e-commerce, etc. The website is built using Webflow, a no-code website builder.
 
-<br/>
-<br/>
-The website contains the following pages: 
-Getting Started
-Features
-How to Contribute
-Building and Deployment
-Issues and Bugs
-Contact
+
+<h3>Features</h3>
+
+<ol>
+<li>
+<h4>Responsive Design<h4> 
+</li>
+<p>The Senior Lab website is designed to be accessible and user-friendly on various devices, including desktops, tablets, and mobile phones.</p>
+  
+<li></li>
+<li></li>
+
+</ol>
