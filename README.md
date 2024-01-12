@@ -15,6 +15,12 @@ The Senior Lab website is designed to be accessible and user-friendly on various
 <li><h4>Information Sections<h4> </li>
 The website includes dedicated sections to provide information about the Senior Lab project, its goals, the technology training it offers to elderly individuals, as well as about the staff.
 
-<li></li>
+<li><h4>Interactive Elements</h4></li>
+The website incorporates interactive elements to engage visitors, making it enjoyable and user-friendly.
+
+<li><h4>Blog with Content Management System (CMS)</h4></li>
+The blog is managed through Webflow's CMS by the staff of Senior, allowing quick modifications to the blog section. 
+
+<li><h4>Contact Form(CMS)</h4></li>
 
 </ol>
