@@ -1,4 +1,4 @@
-<b>Senior Lab Website Documentation
+<h1>Senior Lab Website Documentation<h1/>
 <br/>
 <br/>
 Overview
