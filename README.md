@@ -23,4 +23,6 @@ The blog is managed through Webflow's CMS by the staff of Senior, allowing quick
 
 <li><h4>Contact Form(CMS)</h4></li>
 
+The website contains a contact form, allowing for users to easily sign up and become a part of the project.
+
 </ol>
