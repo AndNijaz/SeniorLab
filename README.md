@@ -1,6 +1,6 @@
 <h1>Senior Lab Website Documentation</h1>
 
-https://www.seniorlab.ba/
+Link: https://www.seniorlab.ba/
 
 <h3>Overview</h3>
 The Senior Lab website is designed to promote the Senior Lab project, which aims to teach elderly individuals how to use technology in everyday life, for purposes such as social media, entertainment, e-commerce, etc. The website is built using Webflow, a no-code website builder.
