@@ -1,30 +1,88 @@
-<h1>Senior Lab Website Documentation</h1>
+# SeniorLab: Supporting Digital Literacy for Seniors
 
-Link: https://www.seniorlab.ba/
+Here you can see the website: [Live Demo](https://www.seniorlab.ba/)
 
-<h3>Overview</h3>
-The Senior Lab website is designed to promote the Senior Lab project, which aims to teach elderly individuals how to use technology in everyday life, for purposes such as social media, entertainment, e-commerce, etc. The website is built using Webflow, a no-code website builder.
+## Project Description
+SeniorLab is a platform designed to empower seniors by improving their digital literacy. The project provides an accessible and user-friendly interface tailored to the needs of older adults. With a focus on accessibility and simplicity, SeniorLab enables seniors to comfortably navigate and interact with the digital world.
+
+---
+
+## Features
+- **Accessible Interface**: Tailored for older adults with larger text, simplified navigation, and clear instructions.
+- **Digital Literacy Resources**: Tutorials and guides to help seniors learn digital skills.
+- **User-Friendly Design**: Intuitive layouts designed for ease of use.
+- **Responsive Design**: Optimized for use on all devices, including desktops, tablets, and smartphones.
+- **Community Engagement**: Facilitates connections and collaborative learning among seniors.
+
+---
+
+## Technologies Used
+- **Webflow**: For content structure.
+- **Webflow**: For modern and responsive styling.
+- **Webflow**: For interactive features.
+- **Backend Framework**: Webflow.
+- **Database**: Webflow.
+
+---
+
+## Setup Instructions
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AndNijaz/SeniorLab.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd SeniorLab
+   ```
+
+3. Install dependencies (if applicable):
+   ```bash
+   npm install
+   ```
+
+4. Start the development server (if applicable):
+   ```bash
+   npm start
+   ```
+
+5. Open `http://localhost:3000` in your browser to view the project.
+
+---
+
+## Usage
+The platform is designed for:
+- **Seniors**: Learning and practicing digital skills.
+- **Educators**: Teaching digital literacy to older adults.
+- **Community Organizations**: Supporting digital inclusion initiatives.
+
+---
+
+## Screenshots
+
+### Homepage
+![Homepage](img/homepage.png)
+
+### Learning Resources
+![Learning Resources](img/learning-resources.png)
+
+> *Screenshots are stored in the `/img` directory.*
+
+---
+
+## Project Status
+This project is **live and operational**. Future updates may include:
+- Expanding tutorials and resources.
+- Adding more interactive features like quizzes and progress tracking.
+- Enhancing community engagement tools.
+
+---
+
+## Acknowledgements
+Special thanks to collaborators and users who have contributed feedback and ideas for this project. SeniorLab aims to create a positive impact by bridging the digital divide for older adults.
+
+---
 
 
-<h3>Features</h3>
-
-<ol>
-<li>
-<h4>Responsive Design<h4> 
-</li>
-The Senior Lab website is designed to be accessible and user-friendly on various devices, including desktops, tablets, and mobile phones.
-  
-<li><h4>Information Sections<h4> </li>
-The website includes dedicated sections to provide information about the Senior Lab project, its goals, the technology training it offers to elderly individuals, as well as about the staff.
-
-<li><h4>Interactive Elements</h4></li>
-The website incorporates interactive elements to engage visitors, making it enjoyable and user-friendly.
-
-<li><h4>Blog with Content Management System (CMS)</h4></li>
-The blog is managed through Webflow's CMS by the staff of Senior, allowing quick modifications to the blog section. 
-
-<li><h4>Contact Form(CMS)</h4></li>
-
-The website contains a contact form, allowing for users to easily sign up and become a part of the project.
-
-</ol>
