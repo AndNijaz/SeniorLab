@@ -65,8 +65,8 @@ The platform is designed for:
 ### Homepage
 ![Homepage](img/homepage.png)
 
-### Learning Resources
-![Learning Resources](img/learning-resources.png)
+### About SeniorLab
+![Learning Resources](img/about-seniorlab.png)
 
 > *Screenshots are stored in the `/img` directory.*
 
